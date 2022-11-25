@@ -1,0 +1,80 @@
+.explicação{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.explicação p{
+    margin-inline: 1.5rem;
+}
+.cultura{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.cultura h2{
+    margin-block: 1.5rem;
+}
+.cultura p{
+    margin-inline: 1.5rem;
+}
+.informações{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.informações h2{
+    margin-inline: 3.75rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+.informações img{
+    width: 3.9375rem;
+}
+.cima{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 2rem;
+}
+.baixo{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 2rem;
+}
+.PIB{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.PIB p{
+    margin-block: 1.125rem;
+}
+.moeda{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.moeda P{
+    margin-block: 1.125rem;
+}
+.continente{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.continente p{
+    margin-block: 1.125rem;
+}
+.população{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.população p{
+    margin-block: 1.125rem;
+}
+
+
