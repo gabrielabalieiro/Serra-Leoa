@@ -1,0 +1,82 @@
+@media(min-width:700px){
+    header img{
+        width: 17.625rem;
+        height: 7.8125rem;
+    }
+    h1{
+        font-size: 3.375rem;
+        margin-inline: 0;
+    }
+    h2{
+        font-size: 2rem;
+        text-align: left;
+        font-style: none;
+    }
+    p{
+        margin-inline: 3rem;
+        font-size: 1.375rem;
+        line-height: 1.5rem;
+    }
+    .primeira{
+        display: flex;
+        flex-direction: row;
+    }
+    .explicação{
+        margin-left:2.625rem;
+        display: flex;
+        text-align: left;
+        align-items: inherit;
+    }
+    .explicação p{
+        margin-left: 1.2rem;
+        text-transform: inherit;
+    }
+    
+    .cultura{
+        text-align: left;
+        align-items: inherit;
+    }
+    .cultura h2{
+        margin-top: 3.75rem;
+        margin-left: 1.5rem;
+    }
+    .informormações{
+        display: flex;
+        margin-top: 3,75rem;
+        padding-top: 14,1875rem;
+    }
+    .informormações img{
+        width: 23rem;
+        display: flex;
+    }
+    .lugares{
+        display: flex;
+        flex-direction: column;
+    }
+    .turisticos{
+        display: flex;
+        flex-direction: row;
+        justify-content:space-between;
+        gap: 2rem;
+    }
+    .lugares h2{
+        text-align: center;
+
+    }
+    .significado{
+        display: flex;
+        align-items: inherit;
+        padding-left: 2.625rem;
+    }
+    .significado p{
+        display: flex;
+        text-align: left;
+        width:22.5rem ;
+        margin:0;
+        padding-bottom: 7rem;
+    }
+    
+    .segunda{
+        display: flex;
+    }
+}
