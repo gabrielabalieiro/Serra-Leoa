@@ -33,6 +33,9 @@ p{
 strong{
     color: white;
     font-family: 'Arimo', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
 }
 main{
     background-color: var(--verde-escuro);

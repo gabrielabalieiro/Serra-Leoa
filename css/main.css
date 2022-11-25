@@ -76,5 +76,76 @@
 .população p{
     margin-block: 1.125rem;
 }
-
-
+.significado{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+} 
+.significado h2{
+    margin-block: 1rem;
+}
+.significado img{
+    width: 15.75rem;
+    height: 10.25rem;
+    margin-bottom: 1.5rem;
+}
+.significado p{
+    margin-inline: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.lugares h2{
+    margin-inline: 4rem;
+    margin-bottom: 2rem;
+}
+.bunce{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--verde-claro);
+    width: 18.5rem;
+    height: 17.8125rem;
+    border-radius: 16px;
+    margin-inline:1.75rem ;
+    margin-bottom:1.75rem ;
+}
+.bunce img{
+    width: 15.5rem;
+    height: 12.625rem;
+    margin-block: 1.25rem;
+    border-radius:14px;
+}
+.bureh{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--verde-claro);
+    width: 18.5rem;
+    height: 17.8125rem;
+    border-radius: 16px;
+    margin-inline:1.75rem ;
+    margin-bottom:1.75rem ;
+}
+.bureh img{
+    width: 15.5rem;
+    height: 12.625rem;
+    margin-block: 1.25rem;
+    border-radius:14px;
+}
+.lakka{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--verde-claro);
+    width: 18.5rem;
+    height: 17.8125rem;
+    border-radius: 16px;
+    margin-inline:1.75rem ;
+    margin-bottom:1.75rem ;
+}
+.lakka img{
+    width: 15.5rem;
+    height: 12.625rem;
+    margin-block: 1.25rem;
+    border-radius:14px;
+}
